@@ -1,10 +1,11 @@
 # Industrial-Automation-Challenge-2017
 Project and design files for the Industrial Automation Challenge of Robo-Carnival 2017 arranged by BUET Robotics Society
 
-Project Video:
-
-
 ![Automation](Gallery/Champions.jpg)
+
+Project Video Demonstration at Digital World Bangladesh 2017:
+
+![Automation](Gallery/demo.gif)
 
 ## Contents
 - [Challenge Overview](#challenge-overview)
