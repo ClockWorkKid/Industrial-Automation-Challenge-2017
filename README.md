@@ -1,13 +1,17 @@
-# Industrial-Automation-Challenge-2017
-Project and design files for the Industrial Automation Challenge of Robo-Carnival 2017 arranged by BUET Robotics Society
+# Industrial Automation Challenge 2017
 
-![Automation](Gallery/Champions.jpg)
+Project and design files for the Industrial Automation Challenge of Robo-Carnival 2017 arranged by BUET Robotics Society.
 
-Project Video Demonstration at Digital World Bangladesh 2017:
+| ![Automation.jpg](Gallery/Champions.jpg) |
+|:--:|
 
-![Automation](Gallery/demo.gif)
+<p align="center">
+    <img src="Gallery/demo.gif"></br>
+    <em> Project Video Demonstration at Digital World Bangladesh 2017 </em>
+</p>
 
 ## Contents
+
 - [Challenge Overview](#challenge-overview)
 - [Materials Used](#materials-used)
 - [Working Principle](#working-principle)
@@ -16,34 +20,33 @@ Project Video Demonstration at Digital World Bangladesh 2017:
 
 ## Challenge Overview
 
-Detailed rulebook can be found <a href="IAC 2017 Problem Statement.pdf">here.</a>
-### Task:
+Detailed rulebook can be found [here](./IAC%202017%20Problem%20Statement.pdf).
+
+### Task
+
 1. There were 3 types of white cubes having black circle, tringle & square drawn on the top surface. They be moved on a conveyer belt at constant speed.
 2. Only one cube passed at a time and cube type was random.
 3. We had to build an autonomous robot which could detect the shape drawn on the cube and deposit it in the corresponding zone.
 
-<img src="Gallery/Arena.jpg" alt="drawing" width="400"/>
-    <figcaption>Arena</figcaption>
-</figure>
-
-
+| ![image-1.jpg](Gallery/Arena.jpg) |
+|:--:|
+| **Arena** |
 
 ## Materials Used
 
-| Material |Amount	|Price Per Unit	| Cost(BDT) |
+| Material |Amount |Price Per Unit | Cost(BDT) |
 |----------|--------|---------------|-----------|
-|PVC Sheet |	2	|   250	        |   500     |
-|Servo 28kg|	4	|   2000	    |   8000    |
-|Servo grip|	2	|   500	        |   1000    | 
-|Servo base|	1	|   1450	    |   1450    |
-|Ball castor|	8	|   80	        |   640     |
-|Nut-bolts |	40	|   5	        |   200     |
-|Wire	   |    5 	|   20	        |   100     |
-|Arduino   |	1	|   500	        |   500     |
-|Battery   |	1	|   1680	    |   1680    |
-|Webcam	   |    1	|   3000	    |   3000    |
-|          |        |   Total       |	17070   |
-
+|PVC Sheet | 2 |   250         |   500     |
+|Servo 28kg| 4 |   2000     |   8000    |
+|Servo grip| 2 |   500         |   1000    |
+|Servo base| 1 |   1450     |   1450    |
+|Ball castor| 8 |   80         |   640     |
+|Nut-bolts | 40 |   5         |   200     |
+|Wire    |    5  |   20         |   100     |
+|Arduino   | 1 |   500         |   500     |
+|Battery   | 1 |   1680     |   1680    |
+|Webcam    |    1 |   3000     |   3000    |
+|          |        |   Total       | 17070   |
 
 ## Working Principle
 
@@ -55,30 +58,30 @@ Detailed rulebook can be found <a href="IAC 2017 Problem Statement.pdf">here.</a
 
 ## Image Gallery
 
-<img src="Gallery/Nighters.jpg" alt="drawing" width="400"/>
-    <figcaption>All Nighters</figcaption>
-</figure>
+| ![image-2.jpg](Gallery/Nighters.jpg) |
+|:--:|
+| **All Nighters** |
 
-<img src="Gallery/First.jpg" alt="drawing" width="400"/>
-    <figcaption>First Design</figcaption>
-</figure>
+| ![image-3.jpg](Gallery/First.jpg) |
+|:--:|
+| **First Design** |
 
-<img src="Gallery/Tests.jpg" alt="drawing" width="400"/>
-    <figcaption>Running Initial Tests</figcaption>
-</figure>
+| ![image-4.jpg](Gallery/Tests.jpg) |
+|:--:|
+| **Running Initial Tests** |
 
-<img src="Gallery/Beef.jpg" alt="drawing" width="400"/>
-    <figcaption>Beefing up the Arm</figcaption>
-</figure>
+| ![image-5.jpg](Gallery/Beef.jpg) |
+|:--:|
+| **Beefing up the Arm** |
 
-<img src="Gallery/Overkill.jpg" alt="drawing" width="400"/>
-    <figcaption>Final Design</figcaption>
-</figure>
+| ![image-6.jpg](Gallery/Overkill.jpg) |
+|:--:|
+| **Final Design** |
 
 ## Team
 
-- Mir Sayeed Mohammad (EEE) - Hardware design & setup, Image processing, Control - (github.com/ClockWorkKid)
-- Mir Mahathir Mohammad (CSE) - Image processing, Control - (github.com/mirmahathir1)
-- Md. Atiqur Rahman (CSE) - Image processing, Control - (github.com/shiroe41)
-- Sakib Chowdhury (EEE) - CAD design - (github.com/sakibchowdhury131)
+- Mir Sayeed Mohammad (EEE) - Hardware design & setup, Image processing, Control - [github.com/ClockWorkKid](https://github.com/ClockWorkKid)
+- Mir Mahathir Mohammad (CSE) - Image processing, Control - [github.com/mirmahathir1](https://github.com/mirmahathir1)
+- Md. Atiqur Rahman (CSE) - Image processing, Control - [github.com/shiroe41](https://github.com/shiroe41)
+- Sakib Chowdhury (EEE) - CAD design - [github.com/sakibchowdhury131](https://github.com/sakibchowdhury131)
 - Sazid Noor Rabi (Mech) - Hardware setup
